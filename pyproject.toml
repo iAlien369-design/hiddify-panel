@@ -37,7 +37,7 @@ dependencies = [
     "sqlalchemy[asyncio]==2.0.46",
     "strenum==0.4.15",
     "wtforms==3.1.2",
-    "werkzeug==3.1.5",
+    "werkzeug==3.1.6",
     "ansi2html==1.9.2",
     "bjoern==3.2.2",
     "click==8.3.1",
